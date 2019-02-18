@@ -1,0 +1,10 @@
+apiVersion: v1
+clusters:
+- cluster:
+    server: 192.168.99.100:8443
+  name: development
+contexts: []
+current-context: ""
+kind: Config
+preferences: {}
+users: []
